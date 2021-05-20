@@ -52,14 +52,26 @@
 /**
  * hello
  */
+// public class hello {
+
+//     public static void main(String[] args) {
+//         // String message = new String("hello world");
+//         String message = "yolo";
+//         System.out.println(message + " olo");
+//         message.endsWith("eg");
+//         System.out.println(message.indexOf("eg"));
+        
+//     }
+// }
+
+
+/**
+ * hello
+ */
 public class hello {
 
     public static void main(String[] args) {
-        // String message = new String("hello world");
-        String message = "yolo";
-        System.out.println(message + " olo");
-        message.endsWith("eg");
-        System.out.println(message.indexOf("eg"));
+        String message = "hello \" mogoba";
         
     }
 }

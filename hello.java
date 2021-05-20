@@ -97,11 +97,36 @@ import java.util.Arrays;
 /**
  * hello
  */
+// public class hello {
+
+//     public static void main(String[] args) {
+//         int [] [] numbers = new int [2][3];
+//         numbers[0][0] = 1;
+//         System.out.println(Arrays.deepToString(numbers));
+//     }
+// }
+
+/**
+ * hello
+ */
+// public class hello {
+
+//     public static void main(String[] args) {
+//          final float PI = 3.15F;
+         
+
+//     }
+// }
+
+// AE
+
+/**
+ * hello
+ */
 public class hello {
 
     public static void main(String[] args) {
-        int [] [] numbers = new int [2][3];
-        numbers[0][0] = 1;
-        System.out.println(Arrays.deepToString(numbers));
+        int result = 10 + 3;
+        
     }
 }

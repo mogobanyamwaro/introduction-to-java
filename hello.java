@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 // import java.util.Date;
 
 // import jdk.internal.vm.compiler.word.Pointer;
@@ -68,10 +70,25 @@
 /**
  * hello
  */
+// public class hello {
+
+//     public static void main(String[] args) {
+//         String message = "hello \" mogoba";
+
+//     }
+// }
+
+/**
+ * hello
+ */
 public class hello {
 
     public static void main(String[] args) {
-        String message = "hello \" mogoba";
-        
+        // int [] numbers =new int [5];
+        int [] numbers = {2,3,4,5,5};
+        Arrays.sort(numbers);
+        numbers[0] = 1;
+        // Arrays.toString(numbers)
+        System.out.println(Arrays.toString(numbers));
     }
 }
